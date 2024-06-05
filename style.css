@@ -346,10 +346,9 @@ filter: alpha(opacity=70)
 
 /*----------------VIDEO-----------------*/
 video {
-	position: relative;
-	width: 100%;    
+    position: relative;
+    width: 100%;    
 }
-
 
 /*-----------------QUIZ----------------*/
 quiz {
